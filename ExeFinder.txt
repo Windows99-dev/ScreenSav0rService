@@ -1,0 +1,2 @@
+C:\Users\NaN\Downloads\ScreenSaverService.zip\bin\Debug\net10.0-windows\IdleScreenService.exe
+is where youll find it
